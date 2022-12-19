@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Vijay Malviya</h1>
-<h3 align="center">A passionate full stack developer</h3>
-
-<svg class="icon" aria-hidden="true">
-  <use xlink:href="node_modules/@uiw/bootstrap-icons/fonts/btfont.symbol.svg#btfont-javascript"></use>
-</svg>
-<style>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>HTML 5 Boilerplate</title>
+<!--     <link rel="stylesheet" href="style.css"> -->
+  
+  <style>
 .iconfont {
   font-family: "btfont" !important;
   font-size: 16px;
@@ -15,6 +16,10 @@
 }
 </style>
 <span class="iconfont">&#59907;</span>
+  
+ </head>
+<h1 align="center">Hi 👋, I'm Vijay Malviya</h1>
+<h3 align="center">A passionate full stack developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
