@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://uiwjs.github.io/bootstrap-icons/index.html">
-    <img src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="200" height="165">
+    <img src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="50" height="50">
   </a>
 </p>
 
