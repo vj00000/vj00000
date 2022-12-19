@@ -2,10 +2,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>HTML 5 Boilerplate</title>
+<!--     <title>HTML 5 Boilerplate</title> -->
 <!--     <link rel="stylesheet" href="style.css"> -->
   
-  <style>
+<!--   <style>
 .iconfont {
   font-family: "btfont" !important;
   font-size: 16px;
@@ -14,8 +14,10 @@
   -webkit-text-stroke-width: 0.2px;
   -moz-osx-font-smoothing: grayscale;
 }
-</style>
-<span class="iconfont">&#59907;</span>
+</style> -->
+    <link rel="stylesheet" type="text/css" href="node_modules/@uiw/bootstrap-icons/fonts/btfont.css">
+<i class="btfont-javascript"></i>
+<!-- <span class="iconfont">&#59907;</span> -->
   
  </head>
 <h1 align="center">Hi 👋, I'm Vijay Malviya</h1>
