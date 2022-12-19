@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/vijaymalviya/" alt="https://auth.geeksforgeeks.org/user/vijaymalviya/" height="30" width="40" />GeeksForGeeks</a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/vijaymalviya/" alt="https://auth.geeksforgeeks.org/user/vijaymalviya/" height="30" width="40" />GeeksForGeeks</a> <br><span><b> Gmail : </b></span> <span> Vijay44malviya55@gmail.com</span>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
