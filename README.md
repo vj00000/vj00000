@@ -9,7 +9,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/vijaymalviya/" alt="https://auth.geeksforgeeks.org/user/vijaymalviya/" height="30" width="40" />GeeksForGeeks</a> <br><span><b> Gmail : </b></span> <span> Vijay44malviya55@gmail.com</span>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/vijaymalviya/" alt="https://auth.geeksforgeeks.org/user/vijaymalviya/" height="30" width="40" />GeeksForGeeks</a> <br>
+<a href="https://leetcode.com/VJY0/" alt="https://leetcode.com/VJY0/" height="30" width="40" />LEETCODE </a> <br>
+<a href="https://www.linkedin.com/in/vjy0/" alt="https://www.linkedin.com/in/vjy0/" height="30" width="40" />LINKEDIN </a> <br>
+  
+  <span><b> Gmail : </b></span> <span> Vijay44malviya55@gmail.com</span>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
