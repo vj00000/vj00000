@@ -42,6 +42,56 @@
 
 ---
 
+### 🔧 How to Pull Branches Locally
+
+If you want to work with different branches from this repository on your local machine, follow these steps:
+
+#### Clone the Repository
+```bash
+git clone https://github.com/vj00000/vj00000.git
+cd vj00000
+```
+
+#### Pull a Specific Branch
+```bash
+# List all available branches (local and remote)
+git branch -a
+
+# Fetch the latest branch information from remote
+git fetch origin
+
+# Switch to a remote branch by name (Git auto-creates a local tracking branch)
+# Use just the branch name, not "origin/branch-name"
+git switch <branch-name>
+
+# Alternative: explicitly create a local branch from a remote branch
+git checkout -b <local-branch-name> origin/<remote-branch-name>
+
+# Pull the latest changes from the current branch
+git pull
+```
+
+#### Example
+```bash
+# List all branches to see what's available
+git branch -a
+
+# See only remote branches
+git branch -r
+
+# Fetch latest information from remote
+git fetch origin
+
+# Switch to a remote branch (replace 'develop' with your actual branch name)
+# Git automatically creates a local tracking branch
+git switch develop
+
+# Pull the latest changes
+git pull
+```
+
+---
+
 ### 📊 My Coding Stats
 
 <p align="center">
