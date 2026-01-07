@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="60" height="60">
-</p>
 
 <h1 align="center">Hi 👋, I'm Vijay Malviya</h1>
 <p align="center">
