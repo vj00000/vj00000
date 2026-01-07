@@ -44,6 +44,8 @@
 
 ### 📊 My Coding Stats
 
+![My Total Language Usage](https://github.com/vj00000/vj00000/blob/master/github-metrics.svg)
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vj00000&layout=compact&theme=vision-friendly-dark&hide_border=true&include_all_commits=true" alt="Top Languages" />
   
