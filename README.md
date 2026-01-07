@@ -60,8 +60,9 @@ git branch -a
 # Fetch the latest branch information from remote
 git fetch origin
 
-# Switch to a remote branch (Git will auto-create a local tracking branch)
-git switch <remote-branch-name>
+# Switch to a remote branch by name (Git auto-creates a local tracking branch)
+# Use just the branch name, not "origin/branch-name"
+git switch <branch-name>
 
 # Alternative: explicitly create a local branch from a remote branch
 git checkout -b <local-branch-name> origin/<remote-branch-name>
@@ -75,10 +76,13 @@ git pull
 # List all branches to see what's available
 git branch -a
 
+# See only remote branches
+git branch -r
+
 # Fetch latest information from remote
 git fetch origin
 
-# Switch to a remote branch (e.g., 'develop' branch from origin)
+# Switch to a remote branch (replace 'develop' with your actual branch name)
 # Git automatically creates a local tracking branch
 git switch develop
 
