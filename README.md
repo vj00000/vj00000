@@ -54,24 +54,29 @@ cd vj00000
 
 #### Pull a Specific Branch
 ```bash
-# List all available branches
+# List all available branches (local and remote)
 git branch -a
 
-# Switch to an existing remote branch
-git checkout <branch-name>
+# Switch to a remote branch (automatically creates local tracking branch)
+git switch <branch-name>
 
-# Or create a new local branch tracking a remote branch
+# Or use checkout to create a local branch from a remote branch
 git checkout -b <branch-name> origin/<branch-name>
 
-# Pull the latest changes from the branch
-git pull origin <branch-name>
+# Pull the latest changes from the current branch
+git pull
 ```
 
 #### Example
 ```bash
-# To pull the main branch
-git checkout main
-git pull origin main
+# List all branches to see what's available
+git branch -a
+
+# Switch to a different branch (e.g., a feature branch)
+git switch feature-branch
+
+# Pull the latest changes
+git pull
 ```
 
 ---
