@@ -57,11 +57,14 @@ cd vj00000
 # List all available branches (local and remote)
 git branch -a
 
-# Switch to a remote branch (automatically creates local tracking branch)
-git switch <branch-name>
+# Fetch the latest branch information from remote
+git fetch origin
 
-# Or use checkout to create a local branch from a remote branch
-git checkout -b <branch-name> origin/<branch-name>
+# Switch to a remote branch (Git will auto-create a local tracking branch)
+git switch <remote-branch-name>
+
+# Alternative: explicitly create a local branch from a remote branch
+git checkout -b <local-branch-name> origin/<remote-branch-name>
 
 # Pull the latest changes from the current branch
 git pull
@@ -72,8 +75,12 @@ git pull
 # List all branches to see what's available
 git branch -a
 
-# Switch to a different branch (e.g., a feature branch)
-git switch feature-branch
+# Fetch latest information from remote
+git fetch origin
+
+# Switch to a remote branch (e.g., 'develop' branch from origin)
+# Git automatically creates a local tracking branch
+git switch develop
 
 # Pull the latest changes
 git pull
