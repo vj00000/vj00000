@@ -42,16 +42,12 @@
 
 ---
 
-### 📊 My Coding Stats
-
-![My Total Language Usage](https://github.com/vj00000/vj00000/blob/master/github-metrics.svg)
-
+### 📊 Total Language Usage
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vj00000&layout=compact&theme=vision-friendly-dark&hide_border=true&include_all_commits=true" alt="Top Languages" />
-  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vj00000&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/vj00000/vj00000/master/github-metrics.svg" alt="Total Language Usage" />
 </p>
 
+### 📊 My Coding Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vj00000&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
 </p>
